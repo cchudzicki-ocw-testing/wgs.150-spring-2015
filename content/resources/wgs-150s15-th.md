@@ -14,6 +14,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: Gender, Power, Leadership and the Workplace (thumbnail)
-type: OCWImage
 uid: 432df0c8-c06a-759f-2a0d-2f02058673ec
 ---
