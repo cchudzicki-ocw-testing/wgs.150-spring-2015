@@ -12,6 +12,7 @@ image_metadata:
   image-alt: 'Five hands in silhouette rise from the bottom of the page. A larger
     hand, in pink, is raised higher than the others. '
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Gender, Power, Leadership and the Workplace (thumbnail)
 uid: 432df0c8-c06a-759f-2a0d-2f02058673ec
