@@ -109,7 +109,7 @@ In-class presentation of final paper
 
 {{< tableclose >}}
 
-See [Assignments section]({{< baseurl >}}/pages/assignments)
+See {{< resource_link 0de032ac-94f5-debf-b7de-f302a5edd43e "Assignments section" >}}
 
 Definition of Grades
 --------------------

@@ -57,4 +57,4 @@ Write a 4–5 pages book reflection that includes answers to the following quest
 Final Project
 -------------
 
-[Final Project Instructions (PDF)]({{< baseurl >}}/resources/mitwgs_150s15_finalproject)
+{{< resource_link fa55791f-4b86-0b85-2408-dd256f49e5cb "Final Project Instructions (PDF)" >}}
